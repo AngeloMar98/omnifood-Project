@@ -189,7 +189,7 @@
   }
 
   .logo-col,
-  .address-colo {
+  .address-col {
     grid-column: span 3;
   }
 
